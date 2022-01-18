@@ -6,7 +6,9 @@ Underscoreid:String ,
 
 formName:String , 
 
-formEmail:String 
+formEmail:String , 
+
+formEmailB:String 
 
 
 })
